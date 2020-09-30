@@ -1,0 +1,18 @@
+------------------------------------------------------------------
+CHANGELOG
+------------------------------------------------------------------
+23/03/2313
+-version 1.3
+	-Hopefully fixed spectator desyncs
+03/03/2013
+-version 1.2
+	-Improved sound handling.
+30/12/2012
+-version 1.1
+	-Fixed crash on activating Fantasy Heaven in the 3rd round.
+	-SokuRoll does not use SSE2 anymore, is now compatible with older processors.
+	-Keys to change the delay can now be set under SokuRoll.ini
+20/12/2012
+-version 1.0
+	-Updated loader for those who skip the readme.
+	-Initial release, implemented rollbacks for soku netplay.
