@@ -71,3 +71,4 @@ First enter the **"profile"** folder,you should see the **.pf** file and the **.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/006.png)
 
+## Use Shitama for online games
