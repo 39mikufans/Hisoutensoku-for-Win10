@@ -31,41 +31,43 @@ Due to the exclusive "spell card" system of this game, you need to migrate your 
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/003.png)
 
-<pre>path: Hisoutensoku Win10 → th123 → profile</pre>
-Copy your old deck file (*it should be in **.pf format***) into the **"Profile"** folder.
+```path: Hisoutensoku Win10 → th123 → profile```
+
+Copy your old deck file (*it should be in ```.pf``` format*) into the ```Profile``` folder.
 
 ### 2. How to create a new deck
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/002.png)
 
-<pre>path: Hisoutensoku Win10 → th123 → profile</pre>
-First enter the **"profile"** folder,you should see the **.pf** file and the **.dat** file included. The file named **Ameame.pf** is my deck file, you can delete it and then you need to copy **profile1p.pf** file, rename it, and place it under the current folder location as your own deck (*just like **Ameame.pf** is my deck*).
+```path: Hisoutensoku Win10 → th123 → profile```
+
+First enter the ```profile``` folder,you should see the ```.pf``` file and the ```.dat``` file included. The file named ```Ameame.pf``` is my deck file, you can delete it and then you need to copy ```profile1p.pf``` file, rename it, and place it under the current folder location as your own deck (*just like ```Ameame.pf``` is my deck*).
 
 ### 3. How to choose my deck
 
-**3.1** Clicking **[Start up]Game+TSK.bat** to run game, and then you can see the main interface. Choosing **"vs player"**.
+**3.1** Clicking ```[Start up]Game+TSK.bat``` to run game, and then you can see the main interface. Choosing ```vs player```.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/004.png)
 
-**3.2** After choosing, press **C** you can enter Profile interface.
+**3.2** After choosing, press ```C``` you can enter Profile interface.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/005.png)
 
-*We can see that there are seven options in the Profile interface except **exit**. From top to bottom, they are:*
+*We can see that there are seven options in the Profile interface except ```exit```. From top to bottom, they are:*
 
-*select 1p deck;*
+*```select 1p deck```*
 
-*select 2p deck;*
+*```select 2p deck```*
 
-*set 1p deck content;*
+*```set 1p deck content```*
 
-*set 2p deck content;*
+*```set 2p deck content```*
 
-*set the key position of 1p;*
+*```set the key position of 1p```*
 
-*set the key position of 2p;*
+*```set the key position of 2p```*
 
-*return to the main menu of the game.*
+*```return to the main menu of the game```*
 
 **3.3** Choose the **first option** to set up your 1p deck.
 
