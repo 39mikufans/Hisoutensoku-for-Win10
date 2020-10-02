@@ -11,7 +11,7 @@ Whether you are a novice who wants to start this game, or an old player, it is f
 
 ![Hisoutensoku](http://touhousupport.gitee.io/some-picture-and-gif/Hisoutensoku.jpg)</center>
 
-I will describe all the steps as clearly as possible. ***I will put a &sect; symbol after the title to indicate that this content is only for those old players. If you are a novice, you can skip this content.***
+I will describe all the steps as clearly as possible. ***I will put a ```§``` symbol after the title to indicate that this content is only for those old players. If you are a novice, you can skip this content.***
 
 ## For the first run
 
