@@ -43,14 +43,31 @@ First enter the **"profile"** folder,you should see the **.pf** file and the **.
 
 ### 3. How to choose my deck
 
-Clicking **[Start up]Game+TSK.bat** to run game, and then you can see the main interface. Choosing **"vs player"**.
+**3.1** Clicking **[Start up]Game+TSK.bat** to run game, and then you can see the main interface. Choosing **"vs player"**.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/004.png)
 
-After choosing, press **C** you can enter Profile interface.
+**3.2** After choosing, press **C** you can enter Profile interface.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/005.png)
 
-Choose the **first option** to set up your 1p deck.
+*We can see that there are seven options in the Profile interface except **exit**. From top to bottom, they are:*
+
+*select 1p deck;*
+
+*select 2p deck;*
+
+*set 1p deck content;*
+
+*set 2p deck content;*
+
+*set the key position of 1p;*
+
+*set the key position of 2p;*
+
+*return to the main menu of the game.*
+
+**3.3** Choose the **first option** to set up your 1p deck.
 
 ![](https://github.com/TouhouSupport/Hisoutensoku-for-Win10/blob/master/images/006.png)
+
