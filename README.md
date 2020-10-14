@@ -2,6 +2,8 @@
 
 This is a nearly perfect *Touhou 12.3: Hisoutensoku* pack for Windows10!
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 ## Introduction
 
 [Touhou Hisoutensoku~ Chōdokyū Ginyoru no Nazo wo Oe](http://tasofro.net/touhou123/index.html) is a versus fighting game in the Touhou Project game series. The game, by Twilight Frontier and Team Shanghai Alice, can be played as a standalone game or as an expansion pack for the previous fighting game Scarlet Weather Rhapsody. In the Touhou Project overall, it is labeled as the 12.3rd Touhou game. The official version was released on August 15, 2009. It was originally designed for Windows 2000 and Windows XP systems and there is no subsequent update.
